@@ -51,8 +51,8 @@ export const BentoGridItem = ({
 }) => {
   const [copied, setCopied] = useState(false);
 
-  const leftLists = ["ReactJS", "Express", "Typescript"];
-  const rightLists = ["VueJS", "NuxtJS", "GraphQL"];
+  const leftLists = ["ReactJS", "NextJS", "Typescript"];
+  const rightLists = ["NodeJs", "Express", "MongoDB"];
 
   const handelCopy = () => {
     const text = "biplab8629@gmail.com";
@@ -80,7 +80,7 @@ export const BentoGridItem = ({
             <img
               src={img}
               alt={img}
-              className={cn(imgClassName, "object-contain", "object-center")}
+              className={cn(imgClassName, "object-cover object-center ")}
             />
           )}
         </div>
