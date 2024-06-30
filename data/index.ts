@@ -120,48 +120,39 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Biplab is an exceptional colleague who always supports and helps me solve tough tasks. His positive attitude and strong coding skills make him a valuable team member. He explains complex concepts clearly and fosters a collaborative, productive environment. His dedication and composure under pressure are inspiring, making him a great asset to our team.",
+    name: "Joyoti Bhattacharya",
+    title: "Shopify Developer at Bitpastel",
+    img: "/joyotiProfile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I had the pleasure of working with Biplab Mondal during our IBM internship as frontend developers. Biplab showcased exceptional technical skills, a keen eye for detail, and quickly grasped new technologies. His positive, proactive attitude and reliability make him a valuable asset. Highly recommended!",
+    name: "Joydip Banerjee",
+    title: "Application Developer AWS at IBM",
+    img: "/maleProfile.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Biplab has a complete knowledge of every technologies he has worked on.",
+    name: "Mousumi Sengupta",
+    title: "Software Engineer at Bitpastel",
+    img: "/femaleProfile.svg",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "ibm",
-    img: "/ibm.svg",
-    nameImg: "/ibm.svg",
-  },
-  {
-    id: 2,
     name: "bitpastel",
     img: "/bitpastel.svg",
     nameImg: "/bitpastel.svg",
+  },
+  {
+    id: 2,
+    name: "ibm",
+    img: "/ibm.svg",
+    nameImg: "/ibm.svg",
   },
 ];
 
@@ -211,5 +202,10 @@ export const socialMedia = [
     id: "3",
     img: "/link.svg",
     link: "https://www.linkedin.com/in/heybiplab/",
+  },
+  {
+    id: "4",
+    img: "/whatsapp.svg",
+    link: "https://wa.me/918629940525?text=Hi%20there%2C%20hope%20you%20are%20doing%20well.",
   },
 ];
